@@ -24,5 +24,7 @@ def testar_somar():
     resultado_obtido = somar(numero_a, numero_b)
         
     # 3 - Valida
-    assert resultado_esperado == resultado_obtido
+    assert resultado_esperado == resultado_obtido 
+    
+    # Escrevi isso no Github
 
