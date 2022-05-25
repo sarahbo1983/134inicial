@@ -1,0 +1,5 @@
+pet_id,category_id,category_name,pet_name,tags_id,tags_name,status
+329095,1,cachorro,Scooby,1,Vacinado,available
+329096,2,gato,Garfield,2,castrado,available
+329097,3,peixe,Nemo,3,registrado,available
+329098,2,gato,Bichento,1,vacinado,available
